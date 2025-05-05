@@ -7,9 +7,10 @@
 
 ### 🌟 Featured Projects
 - **[🏦 Banking System Automation](https://github.com/Akram-BSMRSTU/Automation_Testing_Banking-System)** – Selenium + POM + Data-driven + CI integration  
-- **[🛒 E-commerce Automation](https://github.com/Akram-BSMRSTU/WafiLife_QA_Automation)** – Selenium + POM + Data-driven  
+- **[🛒 E-commerce Automation](https://github.com/Akram-BSMRSTU/WafiLife_QA_Automation)** – Selenium + POM + Data-driven
+- **[📝 Manual Testing](https://github.com/Akram-BSMRSTU/Manual_Testing_Banking_System)** – Manual test cases and bug report  
 - **[📈 Performance Testing](https://github.com/Akram-BSMRSTU/PerformanceTest_USBangla)** – JMeter .jmx with HTML report  
-- **[📝 Test Reports](https://github.com/Akram-BSMRSTU/Manual_Testing_Banking_System)** – Manual test cases and bug logs  
+ 
 
 ### 🧠 Skills
 `🧪 Selenium` `🎭 Playwright` `📬 Postman` `📈 JMeter`  
