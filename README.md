@@ -6,8 +6,8 @@
 - 🚀 Passionate about clean testing frameworks and continuous quality  
 
 ### 🌟 Featured Projects
-- **[🏦 Banking System Automation](https://github.com/Akram-BSMRSTU/Automation_Testing_Banking-System)** – Selenium + POM + Data-driven + CI integration  
-- **[🛒 E-commerce Automation](https://github.com/Akram-BSMRSTU/WafiLife_QA_Automation)** – Selenium + POM + Data-driven
+- **[🏦 Banking System Automation](https://github.com/Akram-BSMRSTU/Automation_Testing_Banking-System)** – Playwright + POM + Data-driven + CI integration  
+- **[🛒 E-commerce Automation](https://github.com/Akram-BSMRSTU/WafiLife_QA_Automation)** – Playwright + POM + Data-driven
 - **[📝 Manual Testing](https://github.com/Akram-BSMRSTU/Manual_Testing_Banking_System)** – Manual test cases and bug report  
 - **[📈 Performance Testing](https://github.com/Akram-BSMRSTU/PerformanceTest_USBangla)** – JMeter .jmx with HTML report  
  
