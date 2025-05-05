@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Akram Khan – SQA Engineer
 
-<!--
-**Akram-BSMRSTU/Akram-BSMRSTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Manual & Automation QA with 1 years of experience
+- Skilled in Selenium, Playwright, JMeter, Postman,Appium, MySQL and CI
+- Passionate about clean testing frameworks and continuous quality
 
-Here are some ideas to get you started:
+### Featured Projects
+- **[Banking System Automation]([link](https://github.com/Akram-BSMRSTU/Automation_Testing_Banking-System))**– Selenium + POM + Data-driven + CI integration
+- **[E-commerce Automation]([link](https://github.com/Akram-BSMRSTU/WafiLife_QA_Automation))** – Selenium + POM + Data-driven
+- **[Performance Testing]([link](https://github.com/Akram-BSMRSTU/PerformanceTest_USBangla))** – JMeter .jmx with HTML report
+- **[Test Reports]([link](https://github.com/Akram-BSMRSTU/Manual_Testing_Banking_System))** – Manual test cases and bug logs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+`Selenium` `Playwright` `Postman` `JMeter` `GitHub Actions` `Manual Testing` `Bug Reporting` `Test Planning`
+
+
