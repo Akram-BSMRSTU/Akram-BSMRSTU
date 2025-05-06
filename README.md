@@ -13,7 +13,7 @@
  
 
 ### 🧠 Skills
-`🧪 Selenium` `🎭 Playwright` `📬 Postman` `📈 JMeter`  
+`🧪 Selenium` `🎭 Playwright` `📬 Postman` `📈 JMeter` `🛢️ MySQL` 
 `🔄 GitHub Actions` `✍️ Manual Testing` `🐛 Bug Reporting` `🗂️ Test Planning`
 
 
