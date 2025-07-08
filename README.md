@@ -6,9 +6,10 @@
 - 🚀 Passionate about clean testing frameworks and continuous quality  
 
 ### 🌟 Featured Projects
+- **[📝 Manual Testing](https://github.com/Akram-BSMRSTU/Manual_Testing_Banking_System)** – Manual test cases and bug report
+- **[🧪 Api Testing](https://github.com/Akram-BSMRSTU/FakeStore_APiTesting)** – Postman Collection + Environment + Newman CLI + HTML Report
 - **[🏦 Banking System Automation](https://github.com/Akram-BSMRSTU/Automation_Testing_Banking-System)** – Playwright + POM + Data-driven + CI integration  
 - **[🛒 E-commerce Automation](https://github.com/Akram-BSMRSTU/WafiLife_QA_Automation)** – Playwright + POM + Data-driven
-- **[📝 Manual Testing](https://github.com/Akram-BSMRSTU/Manual_Testing_Banking_System)** – Manual test cases and bug report  
 - **[📈 Performance Testing](https://github.com/Akram-BSMRSTU/PerformanceTest_USBangla)** – JMeter .jmx with HTML report  
  
 
