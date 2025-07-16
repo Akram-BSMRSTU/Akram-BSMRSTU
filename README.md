@@ -1,7 +1,6 @@
-# Hi, I'm Akram Khan – SQA Engineer
+# Hi, I'm Akram Khan 
 
-### 📌 About Me
-I am a Quality Assurance Engineer with 1 year of hands-on experience in both Manual and Automation Testing. I specialize in ensuring product quality through robust testing strategies, automation frameworks, and performance benchmarking. My goal is to deliver bug-free, user-centric software with continuous improvement in testing standards. 
+I am a Software Quality Assurance Engineer with 1 year of hands-on experience in both Manual and Automation Testing. I specialize in ensuring product quality through robust testing strategies, automation frameworks, and performance benchmarking. My goal is to deliver bug-free, user-centric software with continuous improvement in testing standards. 
 
 ### 🧰 Core Competencies
 - Manual Testing & Test Case Design
