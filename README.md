@@ -15,7 +15,7 @@ I am a Software Quality Assurance Engineer with 1 year of hands-on experience in
 ### 🌟 Featured Projects
 - **[📝 Manual Testing](https://github.com/Akram-BSMRSTU/Manual_Testing_Banking_System)** – Manual test cases and bug report
 - **[🧪 Api Testing](https://github.com/Akram-BSMRSTU/FakeStore_APiTesting)** – Postman Collection + Environment + Newman CLI + HTML Report
-- **[🏦 Banking System Automation](https://github.com/Akram-BSMRSTU/Automation_Testing_Banking-System)** – Playwright + POM + Data-driven + CI integration  
+- **[🏦 Banking System Automation](https://github.com/Akram-BSMRSTU/Automation_Testing_Banking-System)** – Playwright + POM + Data-driven + CI integration + Allure Report 
 - **[🛒 E-commerce Automation](https://github.com/Akram-BSMRSTU/WafiLife_QA_Automation)** – Playwright + POM + Data-driven
 - **[📈 Performance Testing](https://github.com/Akram-BSMRSTU/PerformanceTest_USBangla)** – JMeter .jmx with HTML report  
  
